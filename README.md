@@ -5,11 +5,10 @@ A very small programm to shorten an URL.
 ### Content overview
 
     .
-    ├── .gitignore - ignore files to commit
-    ├── app.py - program entry point
-    ├── LICENSE - license file
-    ├── README.md - contains project information
-    └── requirements.txt - requirements to run the project
+    ├── .gitignore - ignore files and folders to commit
+    ├── LICENSE - license text
+    ├── README.md - project information
+    └── app.py - url shortener program
 
 ## :notebook: Features
 
